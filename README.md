@@ -19,7 +19,7 @@ We are going to implement a "racer game" using JavaScript, HTML and CSS.
 - Include a media query for a tablet to make your pages responsive
 - Comment your code appropriately
 - Use images to create a background and/or players
-- Adhere to the [AirBnB style guide](https://github.com/airbnb/javascript) for writing your JavaScript
+- Adhere to the [AirBnB style guide](https://github.com/airbnb/javascript/tree/es5-deprecated/es5) for writing your JavaScript
 - Adhere to the [Google style guide](https://google.github.io/styleguide/htmlcssguide.xml) for writing your HTML/CSS
 
 **Bonus:**
