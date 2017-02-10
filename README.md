@@ -48,7 +48,7 @@ You should turn in your HTML, CSS, and JavaScript files to a GitHub repository (
 
 Here's a screenshot of what your game page might look like:
 
-![](assets/chicken.png)
+![](https://git.generalassemb.ly/raw/wdi-nyc-1-30/hw-w02-d05-JQuery-Events-Game/master/chicken.png?token=AAAAFFzudtPA_4BHhbim4UjczPHpRpeDks5Yp1bewA%3D%3D)
 
 ## Additional Resources
 - JavaScript [documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
