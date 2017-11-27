@@ -30,9 +30,13 @@ This is going to be a 2-day homework, and the breakdown of what is due when will
 
 You will need a fully styled and and structured HTML page. You can use whatever theme you want for the racers, but you need to have the basic structure of the game by the end of tonight, complete with styling.
 
+Wireframes are an important part of the design process so create at least three wireframes that convey the landing page, game start and game end. 
+
 ##### Day 2
 
 You will need to add all javascript functionality by tonight. The game should be fully working and up to spec by the end of the night.
+
+Pseudocode is an important part of planning out the design logic prior to writing one bit of code so write pseudocode for most, if not all, of your code. 
 
 #### Starter code
 
