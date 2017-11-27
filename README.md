@@ -22,15 +22,6 @@ We are going to implement a "racer game" using JavaScript, HTML and CSS.
 - Adhere to the [AirBnB style guide](https://github.com/airbnb/javascript/tree/es5-deprecated/es5) for writing your JavaScript
 - Adhere to the [Google style guide](https://google.github.io/styleguide/htmlcssguide.xml) for writing your HTML/CSS
 
-**Bonus:**
-
-- Score each game based on the time it took to complete and by how much time they beat the opposing player
-- Display the time it took for the player to complete the race
-- Make a 'Best of 3' tournament and display the winner of the tournament
-- Keep track of best times/ high scores across page refreshes using `localStorage`
-- Add animations
-- Have players do something other than simply pressing a key to move their player, for example, make them type words, or solve simple math problems
-
 #### Starter code
 
 There is no starter code for this project other than one blank HTML, CSS, and JS files located in the code folder of this repo. Here are some tips on how to get started:
@@ -48,7 +39,16 @@ You should turn in your HTML, CSS, and JavaScript files to a GitHub repository (
 
 Here's a screenshot of what your game page might look like:
 
-![](https://git.generalassemb.ly/raw/wdi-nyc-1-30/hw-w02-d05-JQuery-Events-Game/master/chicken.png?token=AAAAFFzudtPA_4BHhbim4UjczPHpRpeDks5Yp1bewA%3D%3D)
+![example shot](https://git.generalassemb.ly/wdi-nyc-narwhal/U01-D04-RACER-HW/blob/master/chicken.png)
+
+**Bonus:**
+
+- Score each game based on the time it took to complete and by how much time they beat the opposing player
+- Display the time it took for the player to complete the race
+- Make a 'Best of 3' tournament and display the winner of the tournament
+- Keep track of best times/ high scores across page refreshes using `localStorage`
+- Add animations
+- Have players do something other than simply pressing a key to move their player, for example, make them type words, or solve simple math problems
 
 ## Additional Resources
 - JavaScript [documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
