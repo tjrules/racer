@@ -6,6 +6,8 @@
 
 We are going to implement a "racer game" using JavaScript, HTML and CSS.  
 
+This is going to be a 2-day homework, and the breakdown of what is due when will follow the requirements.
+
 ## Exercise
 
 #### Requirements
@@ -21,6 +23,16 @@ We are going to implement a "racer game" using JavaScript, HTML and CSS.
 - Use images to create a background and/or players
 - Adhere to the [AirBnB style guide](https://github.com/airbnb/javascript/tree/es5-deprecated/es5) for writing your JavaScript
 - Adhere to the [Google style guide](https://google.github.io/styleguide/htmlcssguide.xml) for writing your HTML/CSS
+
+#### Breakdown
+
+##### Day 1
+
+You will need a fully styled and and structured HTML page. You can use whatever theme you want for the racers, but you need to have the basic structure of the game by the end of tonight, complete with styling.
+
+##### Day 2
+
+You will need to add all javascript functionality by tonight. The game should be fully working and up to spec by the end of the night.
 
 #### Starter code
 
