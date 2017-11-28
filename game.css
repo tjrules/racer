@@ -22,10 +22,18 @@ h1 {
 	margin-top: 100px;
 }
 
-.container {
-	background-color: gray;
+#player1 {
+	position: absolute;
+	left:0;
+	top: 100px;
 }
 
-img {
-	display: block;
+#player2 {
+	position: absolute;
 }
+
+.container {
+	background-color: gray;
+	position: relative;
+}
+
