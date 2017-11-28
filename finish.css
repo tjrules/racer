@@ -1,0 +1,35 @@
+@font-face {
+    font-family: arcadeclassic;
+    src: url(arcadeclassic/ARCADECLASSIC.TTF);
+}
+
+body {
+	font-family: arcadeclassic;
+	background-color: yellow;
+
+}
+h1 {
+	
+	margin: auto;
+	margin-top: 150px;
+	text-align: center;
+	font-size: 100px;
+}
+
+a{
+	text-decoration: none;
+	font-family: arcadeclassic;
+	font-size: 40px;
+	border-radius: 5px;
+
+}
+
+button {
+	margin: 0 auto;
+	text-align: center;
+	padding: 25px;
+	display: block;
+	background-color: lightblue;
+
+}
+

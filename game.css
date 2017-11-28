@@ -4,6 +4,9 @@
     src: url(arcadeclassic/ARCADECLASSIC.TTF);
 }
 
+body {
+	background-color: lightgreen;
+}
 h1 {
 	font-family: arcadeclassic;
 	font-size: 60px;
