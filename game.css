@@ -14,6 +14,10 @@ h1 {
 	text-align: center;
 	margin:25 auto;
 }
+
+p {
+	position:relative;
+}
 /*Game board styling*/
 
 
@@ -21,12 +25,13 @@ h1 {
 #player1 {
 	position: absolute;
 	left:0;
-	top: 100px;
+	top: 0;
 }
 
 #player2 {
 	position: absolute;
 	left:0;
+	top:100px;
 }
 
 .container {
