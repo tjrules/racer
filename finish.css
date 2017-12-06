@@ -6,14 +6,17 @@
 body {
 	font-family: arcadeclassic;
 	background-color: yellow;
-
+	margin: 0 auto;
+    
 }
+
 h1 {
 	
-	margin: auto;
-	margin-top: 150px;
+	
 	text-align: center;
 	font-size: 100px;
+	padding: -20px;
+
 }
 
 a{
@@ -25,7 +28,7 @@ a{
 }
 
 button {
-	margin: 0 auto;
+	margin:0 auto;
 	text-align: center;
 	padding: 25px;
 	display: block;
